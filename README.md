@@ -1,7 +1,7 @@
 # Regex Tutorial 
 
 ## Description
-Describing what and how Regular Expression is and works.
+Describing what and how Regular Expression are and how it works.
 
 ## User Story
 ```
@@ -12,7 +12,7 @@ SO THAT I can understand the search pattern the regex defines
 
 ## Acceptance Criteria
 ```
-GIVEN a regex tutorial
+GIVEN a Regex tutorial
 WHEN I open the tutorial
 THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, a table of contents linking to different sections that break down each component of the regex and explain what it does, and a section about the author with a link to the author’s GitHub profile
 WHEN I click on the links in the table of contents
