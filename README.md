@@ -1,7 +1,7 @@
 # Regex Tutorial 
 
 ## Description
-Describing what Regular Expression are and how they work.
+Describing what Regular Expressions are and how they work.
 
 ## User Story
 ```
