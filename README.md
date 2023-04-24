@@ -24,9 +24,9 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ```
 
 ## Link
-A link to the [GitHub Gist](link here):
+A link to the [GitHub Gist](https://gist.github.com/DomenicoBarb/6792f180c0dcb114ac5b4b719fa97e25):
 ```
-link here
+https://gist.github.com/DomenicoBarb/6792f180c0dcb114ac5b4b719fa97e25
 ```
 
 ## License
